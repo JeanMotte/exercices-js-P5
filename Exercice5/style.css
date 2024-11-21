@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 nav {
     background-color: #333;
     padding: 10px 0;
